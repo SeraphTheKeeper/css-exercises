@@ -1,0 +1,14 @@
+.panda {
+    background-color: black;
+    color: white;
+}
+
+.sunshine {
+    background-color: yellow;
+}
+
+.panda,
+.sunshine {
+    font-size: 24px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
